@@ -1,0 +1,12 @@
+How to compile:
+
+g++ predictive.cpp predictive.h  graph.c graph.h
+ 
+How to Run:
+
+./a.out 1
+
+1 means Graph1.txt in Apps folder 
+
+Change the number 2 if you want to get the result for Graph2.txt. Similarly change the number for other Graphs.
+
